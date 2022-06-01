@@ -1,4 +1,4 @@
-package ㅓ04_입력;
+package j04_입력;
 
 import java.util.Scanner;
 
