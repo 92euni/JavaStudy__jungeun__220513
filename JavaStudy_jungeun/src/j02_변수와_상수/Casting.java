@@ -1,4 +1,4 @@
-package J02_변수와_상수;
+package j02_변수와_상수;
 
 public class Casting {
 
@@ -26,8 +26,7 @@ public class Casting {
 		//[다운캐스팅] : 실수 -> 정수 -> 문자   		// 명시적 형변환
 		char e = (char) d;
 		System.out.println(e);							//	A
-		
-		
+			
 
 	}
 
