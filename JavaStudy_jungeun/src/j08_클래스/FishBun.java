@@ -6,6 +6,7 @@ public class FishBun {
 	String material;			
 	String dough;
 	
+	
 //	[생성자]
 //	원래는 존재하지만 생략된다
 //	대문자로 시작
