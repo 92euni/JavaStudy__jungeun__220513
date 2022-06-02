@@ -1,4 +1,4 @@
-package J12_상속.동물;
+package j12_상속.동물;
 
 
 /*
