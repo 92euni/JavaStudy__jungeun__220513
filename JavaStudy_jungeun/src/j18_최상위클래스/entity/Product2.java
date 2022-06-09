@@ -52,5 +52,5 @@ public class Product2 {
 
 }
 
-//lombok은 하나 수정하면 다 바꿔준다
 //원래는 하나하나 자료형과 변수 getter setter다 바꿔줘야한다
+//lombok은 하나 수정하면 다 바꿔준다
